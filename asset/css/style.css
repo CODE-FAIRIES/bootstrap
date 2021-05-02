@@ -8,3 +8,10 @@
 .grid-layouts.container{
     border: 1px solid rgb(204, 23, 17)  !important;
 }
+.backgroundimg{
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.2TncjWdc_e7RH3f8yoChKwHaDt&pid=Api&P=0&w=369&h=185);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-weight: 700;
+}
